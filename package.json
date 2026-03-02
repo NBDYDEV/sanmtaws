@@ -1,0 +1,13 @@
+{
+  "name": "sanmta-ws-server",
+  "version": "1.0.0",
+  "description": "sanmtav4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
